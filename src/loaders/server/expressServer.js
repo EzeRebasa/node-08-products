@@ -34,6 +34,10 @@ class ExpressServer {
             res.status(200).end();
         });
 
+        this.app.get('/gitflow', (req, res) => {
+            res.status(200).json({prueba: 'GitFlow'});
+        });
+
         this.app.use(`${this.basePath}/users`, require('../../routes/users.routes'));
     }
 
