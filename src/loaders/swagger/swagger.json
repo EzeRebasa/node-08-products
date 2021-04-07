@@ -3,7 +3,7 @@
   "info": {
     "title": "API Rest users and products.",
     "description": "## This is an api of users and products.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "contact": {
       "email": "ezequielrebasa@gmail.com"
     }
