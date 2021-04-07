@@ -21,4 +21,6 @@ module.exports = {
         path: '/documentation'
     },
     databaseURL: process.env.DATABASE_URL
+
+    
 }

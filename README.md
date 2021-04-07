@@ -1,4 +1,4 @@
-# node-06-restserver
+# node-08-products
 ## For this app to work you must configure the .env file
 
 See example in **env.example** 

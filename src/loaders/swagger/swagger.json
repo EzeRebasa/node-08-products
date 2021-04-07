@@ -1,9 +1,9 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "API Rest base repo.",
-    "description": "## This is a base api to start new projects.",
-    "version": "0.0.1",
+    "title": "API Rest users and products.",
+    "description": "## This is an api of users and products.",
+    "version": "1.0.0",
     "contact": {
       "email": "ezequielrebasa@gmail.com"
     }
